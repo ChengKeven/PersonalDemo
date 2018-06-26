@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">PersonalDemo</string>
+    <string name="conversation">会话</string>
+    <string name="post">帖子</string>
+    <string name="friend">好友</string>
+    <string name="addfriend">+好友</string>
+    <string name="identity_authentication">认证身份：</string>
+    <string name="show_full_text">...显示全文</string>
+    <string name="like">赞</string>
+    <string name="ask_for_follow">加关注</string>
+    <string name="answer">回答</string>
+    <string name="module_bbs_camera_hint">轻触拍照，按住摄像</string>
+    <string name="module_bbs_camera_picture">轻触拍照</string>
+    <string name="module_bbs_video_too_short">视频不足2秒，请重拍</string>
+    <string name="module_bbs_flash_auto">自动</string>
+    <string name="module_bbs_flash_on">已开启</string>
+    <string name="module_bbs_flash_off">已关闭</string>
 </resources>

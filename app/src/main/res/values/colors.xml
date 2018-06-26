@@ -3,4 +3,12 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="black">#ff000000</color>
+
+    <color name="headerview_other_user_roundcolor_avatar">#5FFFFFFF</color>
+    <color name="f9f9f9">#F9F9F9</color>
+
+    <color name="btn_bg">#e9e9e9</color>
+    <color name="record_progress">#1E82D2</color>
+    <color name="white">#ffffff</color>
 </resources>
